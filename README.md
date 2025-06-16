@@ -14,7 +14,7 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 使える
+## 使えそうで使えない言語
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,python" />
 <br>
 
@@ -26,6 +26,7 @@
 - None
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oni525)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
