@@ -26,7 +26,7 @@
 - None
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oni525)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oni525&count_private=true&show_icons=true)]
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
