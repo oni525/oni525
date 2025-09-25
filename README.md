@@ -1,8 +1,4 @@
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
-</div>
- 
 ![](https://komarev.com/ghpvc/?username=pni525)
 
 <!-- 2. プロフィールや連絡先を変更 -->
