@@ -8,4 +8,4 @@
 
 ## 勉強中
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,py,raspberrypi,basic, ruby" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,py,raspberrypi,basic, rb" />
