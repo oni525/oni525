@@ -6,6 +6,6 @@
 
 そこらへんに生息している大学生です
 
-## 使えそうで使えない
+## 勉強中
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,py,raspberrypi,basic" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,py,raspberrypi,basic, ruby" />
